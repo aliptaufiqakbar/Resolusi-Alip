@@ -2,3 +2,7 @@ Belajar GIT dan GITHUB
 Diharapkan : 1. Bisa menggunakan kedua aplikasi dengan baik
              2. Ingin bisa mengajarkan teman teman
              3. Bisa kenal dengan banyak expert
+Mempelajari : 1. React
+              2. Vue.js
+              3. Codeigniter 4
+              4. Laravel 5
