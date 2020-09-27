@@ -3,3 +3,4 @@ Diharapkan : 1. Bisa menggunakan kedua aplikasi dengan baik
              2. Ingin bisa mengajarkan teman teman
              3. Bisa kenal dengan banyak expert
 Harus bisa membuat aplikasi ang terkonsep, database nya rapih dan track recordnya jelas
+Struktur data harus dikuasai, tampilan aplikasi tidak boleh bertele tele
